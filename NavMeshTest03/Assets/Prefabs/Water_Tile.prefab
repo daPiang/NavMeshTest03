@@ -71,12 +71,12 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7ea3af7039c1c4f938be410396f98ba6,
         type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7ea3af7039c1c4f938be410396f98ba6,
         type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Water
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7ea3af7039c1c4f938be410396f98ba6,
         type: 3}
