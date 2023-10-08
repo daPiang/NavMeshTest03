@@ -8,10 +8,16 @@ public class GameManager : MonoBehaviour
     public enum AIState
     {
         Action1,
-        Action2
+        Action2,
+        Default
     }
 
     public static AIState aiState;
+
+    private void Start() 
+    {
+        aiState = AIState.Default;
+    }
 
     public void Action1()
     {
